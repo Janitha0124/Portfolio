@@ -191,6 +191,9 @@ function App() {
                   <h4 className="text-2xl font-semibold mb-3 text-white">
                     QuizeGame
                   </h4>
+                  <span className="inline-block bg-blue-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-4">
+                    🔄 Ongoing
+                  </span>
                   <p className="text-gray-400 mb-4">Java</p>
                   <a href="#" className="text-blue-400 hover:underline">
                     View on GitHub →
